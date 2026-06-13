@@ -1,0 +1,14 @@
+{
+  "name": "cloak-search-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "cloak-search-mcp": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md"
+  ]
+}
