@@ -59,3 +59,9 @@ If you want to modify or run the code locally:
    ```bash
    node index.js
    ```
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
